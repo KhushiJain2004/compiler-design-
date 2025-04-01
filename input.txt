@@ -1,0 +1,6 @@
+let distance = 10miles;
+convert (5m + 6km) to miles;
+print distance;
+let dis_in_km=miles_to_km(100);
+let speed = calculate_speed(100miles, 2hours);
+print speed;

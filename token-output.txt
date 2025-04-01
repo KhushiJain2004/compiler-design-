@@ -1,0 +1,39 @@
+<KEYWORD, let, [Ln: 1, Col: 1]>
+<IDENTIFIER, distance, [Ln: 1, Col: 5]>
+<OPERATOR, =, [Ln: 1, Col: 14]>
+<UNIT_VALUE, (10.0, 'miles'), [Ln: 1, Col: 16]>
+<SEMICOLON, ;, [Ln: 1, Col: 23]>
+<KEYWORD, convert, [Ln: 2, Col: 1]>
+<LPAREN, (, [Ln: 2, Col: 9]>
+<UNIT_VALUE, (5.0, 'm'), [Ln: 2, Col: 10]>
+<OPERATOR, +, [Ln: 2, Col: 13]>
+<UNIT_VALUE, (6.0, 'km'), [Ln: 2, Col: 15]>
+<RPAREN, ), [Ln: 2, Col: 18]>
+<KEYWORD, to, [Ln: 2, Col: 20]>
+<IDENTIFIER, miles, [Ln: 2, Col: 23]>
+<SEMICOLON, ;, [Ln: 2, Col: 28]>
+<KEYWORD, print, [Ln: 3, Col: 1]>
+<IDENTIFIER, distance, [Ln: 3, Col: 7]>
+<SEMICOLON, ;, [Ln: 3, Col: 15]>
+<KEYWORD, let, [Ln: 4, Col: 1]>
+<IDENTIFIER, dis_in_km, [Ln: 4, Col: 5]>
+<OPERATOR, =, [Ln: 4, Col: 14]>
+<FUNCTION, miles_to_km, [Ln: 4, Col: 15]>
+<LPAREN, (, [Ln: 4, Col: 26]>
+<NUMBER, 100, [Ln: 4, Col: 27]>
+<RPAREN, ), [Ln: 4, Col: 30]>
+<SEMICOLON, ;, [Ln: 4, Col: 31]>
+<KEYWORD, let, [Ln: 5, Col: 1]>
+<IDENTIFIER, speed, [Ln: 5, Col: 5]>
+<OPERATOR, =, [Ln: 5, Col: 11]>
+<FUNCTION, calculate_speed, [Ln: 5, Col: 13]>
+<LPAREN, (, [Ln: 5, Col: 28]>
+<UNIT_VALUE, (100.0, 'miles'), [Ln: 5, Col: 29]>
+<COMMA, ,, [Ln: 5, Col: 37]>
+<UNIT_VALUE, (2.0, 'hours'), [Ln: 5, Col: 39]>
+<RPAREN, ), [Ln: 5, Col: 45]>
+<SEMICOLON, ;, [Ln: 5, Col: 46]>
+<KEYWORD, print, [Ln: 6, Col: 1]>
+<IDENTIFIER, speed, [Ln: 6, Col: 7]>
+<SEMICOLON, ;, [Ln: 6, Col: 12]>
+<EOF, None, [Ln: 6, Col: 13]>
